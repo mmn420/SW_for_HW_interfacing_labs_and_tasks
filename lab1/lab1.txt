@@ -1,0 +1,11 @@
+%d => signed decimal int
+%i => signed decimal int, octal, hexa (print only)
+%u => unsigned decimal int
+%o => octal 
+%x, %X => hexadecimal 
+%hd => short int
+%ld => long int
+%lld => long long int
+%e , %E => exponential notation
+%f, %F => floating point notation 
+%g, G => both based on the magnitude 
